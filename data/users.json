@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1",
+    "email": "john@doe.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "userType": "teacher",
+    "createdAt": "2025-09-20T03:44:28.640Z"
+  },
+  {
+    "id": "2",
+    "email": "estudiante@demo.com",
+    "firstName": "María",
+    "lastName": "González",
+    "userType": "student",
+    "grade": "8",
+    "createdAt": "2025-09-20T03:44:28.640Z"
+  },
+  {
+    "id": "3",
+    "email": "padre@demo.com",
+    "firstName": "Carlos",
+    "lastName": "González",
+    "userType": "parent",
+    "studentId": "2",
+    "createdAt": "2025-09-20T03:44:28.640Z"
+  },
+  {
+    "id": "4",
+    "email": "nueva@prueba.com",
+    "firstName": "Usuario",
+    "lastName": "Prueba",
+    "userType": "student",
+    "grade": "8",
+    "createdAt": "2025-09-20T03:45:02.181Z"
+  },
+  {
+    "id": "5",
+    "email": "jbolivarg@ecci.edu.co",
+    "firstName": "jose",
+    "lastName": "bolivar",
+    "userType": "student",
+    "grade": "",
+    "studentId": "",
+    "createdAt": "2025-09-20T03:48:25.561Z"
+  },
+  {
+    "id": "6",
+    "email": "jnbolivargamboa@yahoo.es",
+    "firstName": "nestor",
+    "lastName": "bolivar gamboa",
+    "userType": "student",
+    "grade": "",
+    "studentId": "",
+    "createdAt": "2025-09-20T03:52:50.068Z"
+  },
+  {
+    "id": "7",
+    "email": "mariate409@yahoo.es",
+    "firstName": "MAria",
+    "lastName": "Romero",
+    "userType": "teacher",
+    "grade": "",
+    "studentId": "",
+    "createdAt": "2025-09-23T18:38:59.116Z"
+  }
+]
